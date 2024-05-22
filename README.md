@@ -12,8 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akshita-gupta/12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshita-gupta/12" height="30" width="40" /></a>
-  <br>
-<a href="https://linkedin.com/in/akshita-gupta/12" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20210511160813/g4g.jpg" alt="akshita-gupta/12" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akshita-gupta/12" target="blank"><img align="center" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/gdsc_gfg.pngg" alt="akshita-gupta/12" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
